@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "https://github.com/barakdiker123/nbdev_first_project.git"
+  site-url: "https://barakdiker.github.io/https://github.com/barakdiker123/nbdev_first_project.git"
+  description: "Creating new nbdev project for comparing stocks"
+  repo-branch: main
+  repo-url: "https://github.com/barakdiker/https://github.com/barakdiker123/nbdev_first_project.git"
